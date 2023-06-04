@@ -2,25 +2,14 @@ UNIBEM
 Aplicação web para dar suporte à gestão de estoque, doações e trocas do Mercado do Bem para Prefeituras.
 
 Características
-Lista as principais características ou funcionalidades do projeto.
-
-Requisitos Prévios
-Especifica quaisquer requisitos ou dependências necessárias para executar o projeto.
-
-Instalação
-Fornece instruções passo a passo sobre como instalar e configurar o projeto.
-
-Uso
-Explica como utilizar o projeto, incluindo exemplos de código ou comandos.
-
-Contribuição
-Se desejar que outras pessoas contribuam para o projeto, você pode fornecer diretrizes para contribuição nesta seção.
-
-Créditos
-Agradece às pessoas ou recursos que contribuíram para o projeto.
-
-Licença
-Especifica a licença do projeto.
+- Gestão de estoque;
+- Gestão de acesso ao mercado;
+- Gestão de crédito;
+- Produção de relatórios estatísticos;
 
 Contato
-Fornece informações de contato, como endereço de e-mail ou links para perfis de redes sociais, para que os usuários possam entrar em contato com você.
+frank@unemat.br;
+dedi.albuquerque@gmail.com
+eduarda.costa1@unemat.br
+marco.antonio2@unemat.br
+lucas.felicio@unemat.br
